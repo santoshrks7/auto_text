@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box  ;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    background-color: aqua;
+}
+.name{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+    font-weight: 200;
+}
